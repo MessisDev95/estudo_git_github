@@ -5,7 +5,7 @@ Comandos úteis para usar GIT e GITHUB.
 
 
 ## 📝 Criar repositorio localmente:
-- No CDM/PowerSheel
+- No CMD/PowerSheel
 ### 1- Crie um arquivo de projeto:
 
 ````bash

@@ -4,8 +4,8 @@
 Comandos úteis para usar GIT e GITHUB.
 
 
-## 📝 Criar repositorio localmente:
-- No CMD/PowerSheel
+## 📝 Criar repositório localmente:
+- No CMD/PowerShell
 ### 1- Crie um arquivo de projeto:
 
 ````bash
@@ -47,4 +47,9 @@ git branch -M main
 git push -u origin main
 ````
 
+## 📝 BAIXAR UM REPOSITÓRIO DO GITHUB:
 
+- ###  Copiar repositório:
+````bash
+git clone URL_do_repositório_github
+````
